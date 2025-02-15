@@ -28,6 +28,6 @@ Enter a valid choice
 
     play_again = input('Play again? (y/n): ').lower()
     if play_again != 'y':
-        print('Great')
+        print('Thanks for using!')
         running = False
         player = None
